@@ -1,0 +1,6 @@
+:root{
+    --color-primary: rgba(154, 119, 154, 0.933);
+}
+*{
+    background-color: var(--color-primary);
+}
