@@ -1,0 +1,1 @@
+Un archivo README contiene información acerca de otros archivos en un directorio. Es una forma de documentación de software, usualmente en un archivo de texto plano llamado READ.ME, README.TXT, README.md, README.1ST o simplemente README. En ocasiones, en español puede venir traducido como LEEME.TXT.
